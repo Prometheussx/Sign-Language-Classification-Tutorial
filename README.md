@@ -97,6 +97,7 @@ The model's performance is evaluated with metrics such as accuracy, and a sample
 
 The project achieves an accuracy of 93.54% in classifying sign language images of numbers 0 and 1. You can monitor the training progress and results by running the provided code.
 
+
 ![image](https://github.com/Prometheussx/Sign-Language-Classification-Tutorial/assets/54312783/7956fe6a-b30a-4b1b-b719-15b1839a5852)
 
 
