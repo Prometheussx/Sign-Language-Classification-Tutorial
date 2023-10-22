@@ -86,7 +86,9 @@ logistic_regression(x_train, y_train, x_test, y_test,learning_rate=0.01 ,num_ite
 ### Evaluation
 
 The model's performance is evaluated with metrics such as accuracy, and a sample image with the predicted number is displayed.
+
 ![image](https://github.com/Prometheussx/Sign-Language-Classification-Tutorial/assets/54312783/cca6887e-1042-412a-ad1d-c695171f9420)
+
 
 ![image](https://github.com/Prometheussx/Sign-Language-Classification-Tutorial/assets/54312783/def7dbd2-9968-46d1-a41d-d9a86da58dae)
 
@@ -94,6 +96,7 @@ The model's performance is evaluated with metrics such as accuracy, and a sample
 ## Results
 
 The project achieves an accuracy of 93.54% in classifying sign language images of numbers 0 and 1. You can monitor the training progress and results by running the provided code.
+
 ![image](https://github.com/Prometheussx/Sign-Language-Classification-Tutorial/assets/54312783/7956fe6a-b30a-4b1b-b719-15b1839a5852)
 
 
@@ -105,6 +108,3 @@ The project achieves an accuracy of 93.54% in classifying sign language images o
 - Kaggle Profile: [@erdemtaha](https://www.kaggle.com/erdemtaha)
 
 Feel free to reach out if you have any questions or need further information about the project.
-```
-
-Bu metni kullanarak projenizin belgesini oluşturabilir ve gerektiğinde içeriği doldurabilirsiniz. Projeye özgü bilgileri metne ekleyin ve uygun şekilde düzenleyin. İstenilen bilgileri projenize göre özelleştirebilirsiniz.
